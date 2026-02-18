@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ark-tHe-sHaRk
-- 👀 I’m interested in gaming and coding
+- 👋 Hi, I’m @V1llian_Ark
+- 👀 I’m interested in cybersecurity and AI
 - 🌱 I’m currently learning Python but I have finished HTML and Scratch
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, '{[please don't reach me :)]}
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I have come 1st in one python competition and 4th and 7th in multiple other python olympiad competitions
 
